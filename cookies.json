@@ -1,0 +1,13 @@
+{
+  "auraOS_currentUser": {
+    "name": "auraOS_currentUser",
+    "value": "{\"id\":\"max\",\"name\":\"Max\",\"avatar\":\"M\",\"loginTime\":\"2026-05-02T20:16:25.674Z\"}",
+    "timestamp": "2026-05-02T20:16:25.676Z",
+    "options": {
+      "maxAge": 604800000,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    }
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "max": {
+    "dezi": 0,
+    "gigi": 0,
+    "marco": 0,
+    "sevi": 0,
+    "date": "Sat May 02 2026"
+  },
+  "gigi": {
+    "max": 25,
+    "dezi": 25,
+    "marco": 25,
+    "sevi": 25,
+    "date": "Sat May 02 2026"
+  },
+  "marco": {
+    "max": 0,
+    "gigi": 0,
+    "dezi": 0,
+    "sevi": 0,
+    "date": "Sat May 02 2026"
+  },
+  "dezi": {
+    "max": 325,
+    "gigi": 25,
+    "marco": 0,
+    "sevi": 25,
+    "date": "Sat May 02 2026"
+  },
+  "sevi": {
+    "max": 0,
+    "gigi": 0,
+    "marco": 0,
+    "dezi": 0,
+    "date": "Sat May 02 2026"
+  }
+}

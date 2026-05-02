@@ -1,0 +1,20 @@
+{
+  "marco": {
+    "bomb": 0,
+    "nuke": 0,
+    "marcosRage": 0,
+    "cawcaw": 0
+  },
+  "max": {
+    "bomb": 0,
+    "nuke": 0,
+    "marcosRage": 0,
+    "cawcaw": 0
+  },
+  "gigi": {
+    "bomb": 0,
+    "nuke": 0,
+    "marcosRage": 0,
+    "cawcaw": 0
+  }
+}

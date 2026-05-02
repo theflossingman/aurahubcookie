@@ -1,0 +1,22 @@
+{
+  "gigi": {
+    "autoClicker": 2,
+    "doubleClick": 1,
+    "cookieFactory": 2
+  },
+  "dezi": {
+    "autoClicker": 20,
+    "doubleClick": 8,
+    "cookieFactory": 10
+  },
+  "max": {
+    "autoClicker": 3,
+    "doubleClick": 0,
+    "cookieFactory": 2
+  },
+  "marco": {
+    "autoClicker": 2,
+    "doubleClick": 4,
+    "cookieFactory": 0
+  }
+}
